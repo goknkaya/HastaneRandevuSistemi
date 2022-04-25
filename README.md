@@ -1,5 +1,3 @@
-#### "Murat Yücedağ C# ile 25 Derste 25 Uygulamalı Proje" Udemy Kursuna ait C# Form Projesi
-
 # Proje: Hastane Randevu Sistemi
 
 Bu proje C# programlama dilinde, MSSQL Veritabanı kullanılarak oluşturulmuştur. Projede bizleri bir adet Giriş Ekranı karşılamaktadır. Giriş ekranında Hasta, Doktor ve Sekreter girişleri bulunmaktadır. Tüm gruplar TC Kimlik numaralarını ve şifrelerini kullanarak sisteme giriş yapabilmektedir. Ek olarak Hasta kaydı bulunmayan kişiler için Hasta Kayıt Ekranı bulunmaktadır. Hasta girişi sağlayabilen hastalar; randevusu Sekreter tarafından atanmış Doktorlardan randevu alabilmektedir. Geçmişte almış olduğu randevuları görebilmekte ve kendisi ile alakalı bilgileri güncelleyebilmektedir. Doktorlar, mevcut randevularını görüntüleyebilir ve hastaların şikayetlerini okuyabilmektedir. Tıpkı hastalar gibi doktorlar da kendilerine ait bilgileri güncelleyebilmektedir. Sekreterler; hastane hakkında duyuru yayınlayabilir, sisteme yeni doktorlar ve yeni branşlar ekleyebilmektedir.
